@@ -1,4 +1,4 @@
-# Use a imagem oficial do n8n como base. Atualizado 06/12/2025
+# Use a imagem oficial do n8n como base. Atualizado 03/01/2026
 FROM n8nio/n8n
 
 # Mude para o usuário root para instalar pacotes
